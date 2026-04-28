@@ -222,3 +222,5 @@ require (
 	sigs.k8s.io/yaml v1.3.0 // indirect
 	tags.cncf.io/container-device-interface/specs-go v0.6.0 // indirect
 )
+
+replace github.com/moby/buildkit => github.com/Mirantis/buildkit v0.12.6-m.1
