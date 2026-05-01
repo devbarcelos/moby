@@ -1,0 +1,15 @@
+{
+  "name": "moby",
+  "version": "1.0.0",
+  "description": "Professional moby library",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": ["moby", "library"],
+  "author": "leeydev",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
